@@ -57,4 +57,10 @@ Choose Operation:
 ---
 
 ## 📸 Output Screenshot
+![Image](https://github.com/user-attachments/assets/14b8dc78-f236-4902-8d1e-c55960301691)
+
+![Image](https://github.com/user-attachments/assets/ae33c672-ad63-4bea-a6d9-73527c279f71)
+
+![Image](https://github.com/user-attachments/assets/138930f4-88f0-4594-9d7b-74b65e135e13)
+
 
