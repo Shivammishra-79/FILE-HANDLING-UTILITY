@@ -25,7 +25,7 @@ This Java program is a menu-driven console application that performs basic file 
 
 ## 🛠️ Tools & Technologies Used
 
-- **Programming Language**: Java (JDK 8 or above)  
+- **Programming Language**: Java (JDK 22)  
 - **IDE Used**: Eclipse IDE  
 - **Core Concepts**:
   - File I/O: `FileWriter`, `FileReader`, `BufferedWriter`, `BufferedReader`
