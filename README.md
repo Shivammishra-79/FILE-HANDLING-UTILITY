@@ -1,4 +1,4 @@
-# Codtech Java Internship – Task 1: File Handling Utility
+# File Handling Utility
 
 ---
 
